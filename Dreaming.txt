@@ -169,4 +169,4 @@
         - Probably, most or all bonds cannot be lightly broken, all should have a cost.
 - Sometimes contracts might be forged between two sets of humans, with power given by a patron of one or the other.  This allows for temporary access to information, for example.
 
-- Some objects are manifestations, some are archetypes, some are bonded to things in the dreaming, some just have the ability to channel energy
+- Some objects(Items) are manifestations, some are archetypes, some are bonded to things in the dreaming, some just have the ability to channel energy
