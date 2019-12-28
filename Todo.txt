@@ -7,3 +7,11 @@
 - Each World:
     - History / Peoples / Mythology
     - Layout, places, loot
+
+- Create contracts (categories, format, etc)
+- Contract tasks
+- Ruins, Treasure, People
+- Monsters, Enemies
+- Puzzles, Challenges
+- Player + Contract Progression
+- Genies, Genie tasks + Powers

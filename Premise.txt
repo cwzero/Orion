@@ -1,13 +1,13 @@
 Idea:
-    - Facilitate non-linear, flexible play
-    - Minimize GM prep work
-    - Maximize dynamicity
+- Facilitate non-linear, flexible play
+- Minimize GM prep work
+- Maximize dynamicity
 
 Resolution Mechanic Target:
-    - Transactional.  Players decide what they want to do, GM tells them what it will cost.
-    - Cost of actions becomes a currency for the GM to act on
-    - In-narrative way of codifying this?
-    - "I want to do X." "X will cost Y." "Ok, I do it." then GM gets Y points to spend on bad stuff
+- Transactional.  Players decide what they want to do, GM tells them what it will cost.
+- Cost of actions becomes a currency for the GM to act on
+- In-narrative way of codifying this?
+- "I want to do X." "X will cost Y." "Ok, I do it." then GM gets Y points to spend on bad stuff
 
 Ability for magic to go wrong/fail?
 More energy = more chance to go wrong

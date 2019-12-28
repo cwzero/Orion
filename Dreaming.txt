@@ -28,7 +28,7 @@
 - Some unstable areas may change before your eyes, some will take generations or eons.
 - Within any area, the rules are generally pretty predictable/stable.
 - Some areas are domains, which are controlled by some entity, and their stablity depends on that entity
-- Two parts of an area may look completely different, and the same part of an area may look completely different at different times.
+- In the dreaming, physical appearance may be very important, or it may be fluid and meaningless.  It depends on where the power comes from
 - Certain areas may be more or less stable than others
 - It's possible for the areas of the dreaming or the dreaming itself to move, so you can change areas without moving yourself, or not change areas when you expect to
 - Dreaming as a connection between all worlds, but it's impossible to tell where a world other than your own begins and the dreaming ends.  Other worlds might just be parts of the
@@ -37,6 +37,7 @@
     - What are these areas and why are they different/called dreams?
 - There are paths for traveling through the dreaming and returning to the world.  These are called dreamways.  The dreamer brings power with them when they return.
 - There are factions and races which seem almost native to the dreaming
+- The dreaming is always locally shaped by the willpower of its residents.
 
 - Methodology for entering and traveling the dreaming
 - Creating tethers to the real world, and ties to people places and objects within the dreaming (sources of magic)

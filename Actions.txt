@@ -1,0 +1,6 @@
+Player Actions:
+- Movement
+- Melee/Ranged Attack
+- Contract Powers
+- Genie Powers
+- Summon Genie
